@@ -35,8 +35,8 @@ I'm a **Cloud and DevOps Engineer** with a passion for building scalable, secure
 
 ### 🔥 Projects & Contributions
 - **[Two tier network infrastructure by using Terraform](https://github.com/HarshalPatil-Repo/Two-tier-network-infrastructure-by-using-Terraform)**: Simple network infrastructure created using Terraform and integrated with Jenkins Pipeline.
-- **[AWS Three Tier Web Architecture using Terraform](https://github.com/HarshalPatil-Repo/AWS-Three-Tier-Web-Architecture-using-Terraform)**: Highly Available, Scalable and Fault Tolerant infrastruture creation for three tier web application by using Terraform
-- **[AWS Three Tier Web Architecture using AWS Management Console](https://github.com/HarshalPatil-Repo/AWS-Three-Tier-Web-Architecture-using-AWS-Management-Console)**: Highly Available, Scalable and Fault Tolerant infrastruture creation for three tier web application by using AWS Management Console
+- **[AWS Three Tier Web Architecture using Terraform](https://github.com/HarshalPatil-Repo/AWS-Three-Tier-Web-Architecture-using-Terraform)**: Created highly Available, Scalable and Fault Tolerant infrastruture for three tier web application by using Terraform
+- **[AWS Three Tier Web Architecture using AWS Management Console](https://github.com/HarshalPatil-Repo/AWS-Three-Tier-Web-Architecture-using-AWS-Management-Console)**: Created highly Available, Scalable and Fault Tolerant infrastruture for three tier web application by using AWS Management Console
 
 ---
 
