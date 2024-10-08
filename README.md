@@ -29,7 +29,7 @@ I'm a **Cloud and DevOps Engineer** with a passion for building scalable, secure
 ### 🌱 What I'm Currently Learning
 - **Kubernetes**
 - **Docker**
-- **Micor-service application deployement throgh CI/CD**
+- **Micro-service application deployement through CI/CD**
 
 ---
 
