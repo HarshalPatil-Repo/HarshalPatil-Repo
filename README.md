@@ -11,7 +11,7 @@ I'm a **Cloud and DevOps Engineer** with a passion for building scalable, secure
 
 - **Cloud Providers**: AWS
 - **CI/CD**: Jenkins
-- **Containers & Orchestration**: Docker, Kubernete
+- **Containers & Orchestration**: Docker, Kubernetes
 - **Infrastructure as Code (IaC)**: Terraform
 - **Monitoring & Logging**: Prometheus, Grafana
 - **Version Control**: Git, GitHub
