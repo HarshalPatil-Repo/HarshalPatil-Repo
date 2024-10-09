@@ -21,7 +21,7 @@ I'm a **Cloud and DevOps Engineer** with a passion for building scalable, secure
 - **Static Code Analysis**: SonarQube
 - **Code Build and Artifact Generation**: Maven
 - **Artifact Upload and Backup**: Nexus
-- **Deployemnt Server**: Nginx, Tomacat
+- **Deployemnt Server**: Nginx, Tomacat, Apache httpd
 
 ---
 
