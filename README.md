@@ -11,7 +11,7 @@ I'm a **AWS Cloud and DevOps Engineer** with a passion for building scalable, se
 - **CI/CD**: Jenkins
 - **Containers & Orchestration**: Docker, Kubernetes
 - **Infrastructure as Code (IaC)**: Terraform
-- **Monitoring & Logging**: Prometheus, Grafana
+- **Monitoring & Visualization**: Prometheus, Grafana
 - **Version Control**: Git, GitHub
 - **Scripting & Automation**: Bash
 - **Operating Systems**: Linux
