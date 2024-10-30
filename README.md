@@ -24,10 +24,8 @@ I'm a **AWS Cloud and DevOps Engineer** with a passion for building scalable, se
 ---
 
 
-### 🌱 What I'm Currently Learning
-- **Kubernetes**
-- **Docker**
-- **Micro-service application deployement through CI/CD**
+### 🌱 Current Experience
+- **Working as Systems Enginner in Infosys | Feb 2022 - Present**
 
 ---
 
