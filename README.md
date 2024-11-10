@@ -12,14 +12,14 @@ I'm a **AWS Cloud and DevOps Engineer** with a passion for building scalable, se
 - **Containers & Orchestration**: Docker, Kubernetes
 - **Infrastructure as Code (IaC)**: Terraform
 - **Monitoring & Visualization**: Prometheus, Grafana
-- **Version Control**: Git, GitHub
-- **Scripting & Automation**: Bash
-- **Operating Systems**: Linux
+- **Version Control**: Git
+- **Scripting**: Bash
+- **OS**: Linux
 - **Configuration Management**: Ansible
 - **Static Code Analysis**: SonarQube
-- **Code Build and Artifact Generation**: Maven
-- **Artifact Upload and Backup**: Nexus
-- **Deployemnt Server**: Nginx, Tomacat, Apache httpd
+- **Build Tool**: Maven
+- **Artifact Repository**: Nexus
+- **Web Server**: Nginx, Tomcat, Apache server
 
 ---
 
