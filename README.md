@@ -1,7 +1,7 @@
 
 # Hi, I'm Harshal Patil 👋
 
-I'm a **AWS Cloud and DevOps Engineer** with a passion for building scalable, secure, and efficient cloud infrastructures. With expertise in **AWS**, **CI/CD pipelines**, **infrastructure as code (IaC)**, and **automation**, I enjoy creating systems that improve the speed, reliability, and scalability of applications.
+AWS Cloud Engineer with experience in designing and managing scalable, secure cloud infrastructure. Skilled in **Infrastructure as a Code (IaC) tool Terraform** and **Linux**. Aspire to become DevOps Engineer.
 
 ---
 
