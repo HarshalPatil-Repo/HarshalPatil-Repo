@@ -9,18 +9,17 @@ I'm a **AWS Cloud and DevOps Engineer** with a passion for building scalable, se
 
 - **Cloud Providers**: AWS
 - **CI/CD**: Jenkins
-- **Containers & Orchestration**: Docker, Kubernetes
 - **Infrastructure as Code (IaC)**: Terraform
-- **Monitoring & Visualization**: Prometheus, Grafana
 - **Version Control**: Git
 - **Scripting**: Bash
 - **OS**: Linux
 - **Configuration Management**: Ansible
 - **Static Code Analysis**: SonarQube
-- **Build Tool**: Maven
+- **Build**: Maven
 - **Artifact Repository**: Nexus
 - **Web Server**: Nginx, Tomcat, Apache server
-
+<!-- - **Containers & Orchestration**: Docker, Kubernetes -->
+<!-- - **Monitoring & Visualization**: Prometheus, Grafana -->
 ---
 
 
