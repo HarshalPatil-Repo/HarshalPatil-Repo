@@ -11,15 +11,15 @@ AWS Cloud Engineer with experience in designing and managing scalable, secure cl
 - **CI/CD**: Jenkins
 - **Infrastructure as Code (IaC)**: Terraform
 - **Version Control**: Git
-- **Scripting**: Bash
 - **OS**: Linux
 - **Configuration Management**: Ansible
 - **Static Code Analysis**: SonarQube
 - **Build**: Maven
 - **Artifact Repository**: Nexus
 - **Web Server**: Nginx, Tomcat, Apache server
-<!-- - **Containers & Orchestration**: Docker, Kubernetes -->
+- **Containers & Orchestration**: Docker, Kubernetes
 <!-- - **Monitoring & Visualization**: Prometheus, Grafana -->
+<!-- - **Scripting**: Bash -->
 ---
 
 
