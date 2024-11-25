@@ -10,6 +10,7 @@ AWS Cloud Engineer with experience in designing and managing scalable, secure cl
 - **Cloud Providers**: AWS
 - **CI/CD**: Jenkins
 - **Infrastructure as Code (IaC)**: Terraform
+- **Containers & Orchestration**: Docker, Kubernetes
 - **Version Control**: Git
 - **OS**: Linux
 - **Configuration Management**: Ansible
@@ -17,7 +18,7 @@ AWS Cloud Engineer with experience in designing and managing scalable, secure cl
 - **Build**: Maven
 - **Artifact Repository**: Nexus
 - **Web Server**: Nginx, Tomcat, Apache server
-- **Containers & Orchestration**: Docker, Kubernetes
+
 <!-- - **Monitoring & Visualization**: Prometheus, Grafana -->
 <!-- - **Scripting**: Bash -->
 ---
