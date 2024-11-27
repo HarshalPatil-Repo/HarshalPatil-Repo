@@ -34,6 +34,7 @@ AWS Cloud Engineer with experience in designing and managing scalable, secure cl
 - **[AWS Three Tier Web Architecture using Terraform](https://github.com/HarshalPatil-Repo/AWS-Three-Tier-Web-Architecture-using-Terraform)**: Created highly Available, Scalable and Fault Tolerant infrastructure for three tier web application by using Terraform
 - **[AWS Three Tier Web Architecture using AWS Management Console](https://github.com/HarshalPatil-Repo/AWS-Three-Tier-Web-Architecture-using-AWS-Management-Console)**: Created highly Available, Scalable and Fault Tolerant infrastructure for three tier web application by using AWS Management Console
 - **[Jenkins Pipeline for Monolithic Application Deployment](https://github.com/HarshalPatil-Repo/Jenkins-Pipeline-for-Monolithic-Application-Deployment)**: In this project I have deployed simple java based application into Tomcat server using Jenkins pipeline
+- **[Jenkins Pipeline to Deploy Application into EKS](https://github.com/HarshalPatil-Repo/Jenkins-Pipeline-to-deploy-application-into-EKS)**: Application Deployment into EKS Pods using Jenkins Pipeline
 
 ---
 
