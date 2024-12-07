@@ -1,8 +1,7 @@
 
 # Hi, I'm Harshal Patil 👋
 
-Dynamic and results-driven DevOps Engineer with experience in AWS cloud and infrastructure creation using Terraform. Well versed in CI/CD pipeline creation with Jenkins, containerization using Docker and orchestration with Kubernetes.
-
+AWS Cloud Engineer with experience in designing and managing secure cloud infrastructure. Skilled in Infrastructure as a Code tool Terraform. Well versed in DevOps tools and technologies and looking for opportunities in DevOps
 ---
 
 ### 🛠️ Technologies & Tools I Work With
