@@ -25,7 +25,7 @@ Passionate DevOps Engineer with hands-on experience in cloud and CI/CD pipelines
 
 
 ### 🌱 Current Experience
-- **Working as Systems Enginner in Infosys | Feb 2022 - Present**
+- **Working as Systems Enginner in Infosys | Feb 2022 - Dec 2024**
 
 ---
 
