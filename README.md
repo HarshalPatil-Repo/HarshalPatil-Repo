@@ -15,7 +15,7 @@ Aspiring DevOps engineer passionate about DevOps and Cloud Engineering
 - **OS**: Linux
 - **Configuration Management**: Ansible
 - **Build**: Maven
-- **Scripting**: Bash, Python
+- **Scripting**: Bash
 
 
 <!-- - **Monitoring & Visualization**: Prometheus, Grafana -->
