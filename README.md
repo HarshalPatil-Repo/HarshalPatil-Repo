@@ -32,9 +32,9 @@ Aspiring DevOps engineer passionate about DevOps and Cloud Engineering
 
 ### 🔥 Projects
 - **[End to End CI/CD Implementation](https://github.com/HarshalPatil-Repo/End-to-End-CI-CD-Implementation)**:
-  - [ADD PROJECT DETAILS]
+  - Implemented an end-to-end automation CI/CD pipeline for java based application using Jenkins.
 - **[EKS Cluster Implementation using Terraform](https://github.com/HarshalPatil-Repo/EKS-Cluster-Implementation-using-Terraform)**:
-  - [ADD PROJECT DETAILS]
+  - Created EKS cluster with custom VPC components such as subnets, internet gateway, NAT gateway and route tables using Terraform.
 
 
 ---
